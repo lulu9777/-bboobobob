@@ -4,8 +4,8 @@
 <a href="https://www.gnu.org/licenses/gpl-3.0.html"><img src="https://img.shields.io/badge/license-GPLV3-blue" alt="license GPLV3"></a>
 <a href="https://www.php.net/releases/7_4_0.php"><img src="https://img.shields.io/badge/.NET-6-orange" alt=".net6"></a>
 <a href="https://github.com/assimon/dujiaoka/releases/tag/1.0.0"><img src="https://img.shields.io/badge/version-1.0.0-red" alt="version 1.0.0"></a>
-<a href="https://t.me/CoinConvertChannel"><img src="https://img.shields.io/badge/官方频道-@CoinConvertChannel-blue" alt="官方频道：@CoinConvertChannel"></a>
-<a href="https://t.me/CoinConvertBot"><img src="https://img.shields.io/badge/官方Bot-@CoinConvertBot-blue" alt="官方机器人：@CoinConvertBot"></a>
+<a href="https://t.me/CoinConvertChannel"><img src="https://img.shields.io/badge/官方频道-@aishaolian" alt="官方频道：@aishaolian"></a>
+<a href="https://t.me/CoinConvertBot"><img src="https://img.shields.io/badge/官方@bo6TTTTTT_bot" alt="官方机器人：@bo6TTTTTT_bot"></a>
 </p>
 
 ## 兑币机 - Telegram Bot
@@ -16,23 +16,14 @@
 >免费领取VISA卡，万事达卡，充值USDT即可随便刷  
 可绑微信、支付宝、美区AppStore消费  
 快来领取你的可刷USDT的国际银行卡吧   
-➡️➡️➡️ [点击领取你的国际信用卡](https://depay.depay.one/web-app/register-h5?invitCode=949656&lang=zh-cn)
+➡️➡️➡️ [点击领取你的国际信用卡](https://dupay.one/web-app/register-h5?invitCode=102138&lang=zh-cn)
 
 ## AD -- 机器人推广
-查币机 - 链上信息查询：[查币机](https://t.me/QueryCoinBot)
+查币机 - 链上信息查询：[查币机](https://t.me/bo6TTTTTT_bot)
 > 支持TRON、ETH、Polygon、BSC多链资产查询，也支持多种法币与区块链货币的实时汇率查询。
 
-USDT、TRX交易监控机器人：[USDT、TRX交易监控](https://t.me/CoinListenBot)
-> 监控波场地址余额变化，速度比钱包App的推送更快！！！
-
-兑币机 - TRX自动兑换：[兑币机](https://t.me/CoinConvertBot)
+兑币机 - TRX自动兑换：[兑币机](https://t.me/bo6TTTTTT_bot)
 > 自用兑币机，并不是开源版机器人！！！
-
-波场能量机器人：[波场能量机器人](https://t.me/Buy_Energy_Bot)
-> 波场能量租用，有能量时转账USDT不扣TRX，为你节省50-70%的TRX
-
-TG会员秒开机器人：[TG会员秒开-全自动发货](https://t.me/BuyYourPremiumBot)
-> 24小时自动开通Telegram Premium会员，只需一个用户名即可开通。
 
 ## 项目简介
 - `CoinConvertBot`是一个由`C#语言`编写的私有化部署`USDT-TRC20`全自动兑换`TRX`的机器人。     
@@ -61,8 +52,8 @@ CoinConvertBot
 
 
 ## 加入交流/意见反馈
-- `CoinConvertBot`频道[https://t.me/CoinConvertChannel](https://t.me/CoinConvertChannel)
-- `CoinConvertBot`交流群组[https://t.me/CoinConvertChat](https://t.me/CoinConvertChat)
+- `CoinConvertBot`频道[https://t.me/aishaolian](https://t.me/aishaolian)
+- `CoinConvertBot`交流群组[https://t.me/gongjuqun](https://t.me/gongjuqun)
 
 ## 设计实现
 `CoinConvertBot`的实现方式与其他项目原理类似，都是通过监听`TRC20`网络的api或节点，      
@@ -77,12 +68,11 @@ CoinConvertBot
 5.交易成功后通知客户(需要客户已经在机器人处绑定钱包地址)和管理员
 ```
 
-## 打赏
-如果该项目对您有所帮助，希望可以请我喝一杯咖啡☕️
+## 闪兑
+可用于测试闪兑速度☕️
 ```
-USDT-TRC20打赏地址: TKGTx4pCKiKQbk8evXHTborfZn754TGViP
+USDT-TRC20闪兑地址会自动回TRX: TWr6d5rRd8VXFWqH5XvUJdVbMbo6TTTTTT
 ```
-<img src="wiki/imgs/usdt_thanks.jpg" width = "400" alt="usdt扫码打赏"/>
 
 ## 致谢
 感谢以下开源项目：
