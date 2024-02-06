@@ -47,7 +47,7 @@ CoinConvertBot
 ## 加入交流/意见反馈
 - `TRX兑币机`频道[https://t.me/aishaolian](https://t.me/aishaolian)
 - `TRX兑币机`交流群组[https://t.me/gongjuqun](https://t.me/gongjuqun)
-- `TRX兑币机完美优化python版代搭建[https://t.me/bboobobob](https://t.me/bboobobob)
+TRX兑币机`python`升级版代搭建[https://t.me/bboobobob](https://t.me/bboobobob)
 
 ## 设计实现
 `TRX兑币机`的实现方式与其他项目原理类似，都是通过监听`TRC20`网络的api或节点，      
