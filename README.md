@@ -19,11 +19,11 @@
 > 自用兑币机，并不是开源版机器人！！！
 
 ## 项目简介
-- `CoinConvertBot`是一个由`C#语言`编写的私有化部署`USDT-TRC20`全自动兑换`TRX`的机器人。     
+- `TRX兑币机`是一个由`C#语言`编写的私有化部署`USDT-TRC20`全自动兑换`TRX`的机器人。     
 - 本项目不依赖任何外部资源，无需另外部署`数据库`，采用轻量化的`sqlite`，也无需`redis`。
 - 可实现`USDT-TRC20`入账指定地址，自动向转账地址回款`TRX`，全程无需人工干预！😊 😊 😊
 - 私有化搭建使得您的私钥🔑安全无比，同时USDT代币直接进入您的钱包💰
-- `CoinConvertBot` 遵守 [GPLv3](https://www.gnu.org/licenses/gpl-3.0.html) 开源协议!
+- `TRX兑币机` 遵守 [GPLv3](https://www.gnu.org/licenses/gpl-3.0.html) 开源协议!
 
 ## 项目特点
 - 支持私有化部署，无需担心钱包被盗😁
@@ -47,9 +47,10 @@ CoinConvertBot
 ## 加入交流/意见反馈
 - `TRX兑币机`频道[https://t.me/aishaolian](https://t.me/aishaolian)
 - `TRX兑币机`交流群组[https://t.me/gongjuqun](https://t.me/gongjuqun)
+- `TRX兑币机完美优化python版代搭建[https://t.me/bboobobob](https://t.me/bboobobob)
 
 ## 设计实现
-`CoinConvertBot`的实现方式与其他项目原理类似，都是通过监听`TRC20`网络的api或节点，      
+`TRX兑币机`的实现方式与其他项目原理类似，都是通过监听`TRC20`网络的api或节点，      
 监听钱包地址`USDT`代币入账事件，将入账金额，根据汇率，扣除手续费后，转换为`TRX`
 ```
 简单的原理：
@@ -81,7 +82,7 @@ USDT-TRC20闪兑地址会自动回TRX: TWr6d5rRd8VXFWqH5XvUJdVbMbo6TTTTTT
 [TronNet](https://github.com/stoway/TronNet) ![Github stars](https://img.shields.io/github/stars/stoway/TronNet?style=social)
 
 ## 声明
-`CoinConvertBot`为开源的产品，仅用于学习交流使用！       
+`TRX兑币机`为开源的产品，仅用于学习交流使用！       
 不可用于任何违反中华人民共和国(含台湾省)或使用者所在地区法律法规的用途。           
 因为作者即本人仅完成代码的开发和开源活动(开源即任何人都可以下载使用或修改分发)，从未参与用户的任何运营和盈利活动。       
 且不知晓用户后续将程序源代码用于何种用途，故用户使用过程中所带来的任何法律责任即由用户自己承担。            
