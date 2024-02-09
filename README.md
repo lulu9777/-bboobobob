@@ -1,6 +1,10 @@
 <p align="center"><img src="wiki/imgs/logo.png" width="150"></p>
 </p>
 
+## 推荐服务器
+使用促销代码：`15OFFDEDI` 在所有专用服务器上终身享有15%折扣。
+[立即购买](https://my.racknerd.com/aff.php?aff=10826)
+
 ## 兑币机 - Telegram Bot
 
 >一款开源自动化USDT兑换TRX的Telegram机器人！
